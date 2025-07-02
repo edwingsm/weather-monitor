@@ -1,0 +1,8 @@
+ie\weather\monitor\repository\SensorDataRepository.class
+ie\weather\monitor\WeatherMonitorApplication.class
+ie\weather\monitor\entity\SensorData.class
+ie\weather\monitor\dto\SensorDataRequest.class
+ie\weather\monitor\controller\SensorDataController.class
+ie\weather\monitor\service\SensorDataService.class
+ie\weather\monitor\dto\AverageMetricResponse.class
+ie\weather\monitor\exception\GlobalExceptionHandler.class

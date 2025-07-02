@@ -1,0 +1,4 @@
+ie\weather\monitor\controller\SensorDataControllerTest.class
+ie\weather\monitor\service\SensorDataServiceTest.class
+ie\weather\monitor\integration\SensorDataIntegrationTest.class
+ie\weather\monitor\repository\SensorDataRepositoryTest.class
