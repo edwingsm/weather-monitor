@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ie.weather.monitor.controller.SensorDataControllerTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.845 s -- in ie.weather.monitor.controller.SensorDataControllerTest

@@ -1,8 +1,0 @@
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\controller\SensorDataController.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\dto\AverageMetricResponse.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\dto\SensorDataRequest.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\entity\SensorData.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\exception\GlobalExceptionHandler.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\repository\SensorDataRepository.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\service\SensorDataService.java
-E:\Coding\weather-monitor\src\main\java\ie\weather\monitor\WeatherMonitorApplication.java
